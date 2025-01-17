@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://www.codeakademie-janorschke.de/build/)
+### [live preview demo](https://www.codeakademie-janorschke.de/build/)
 
 
 
