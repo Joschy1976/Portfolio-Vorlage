@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://www.codeakademie-janorschke.de/build/)
 
 
 
